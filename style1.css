@@ -70,13 +70,14 @@ body {
    }
 
    .card-details {    
-    background-color: #ffff00;
+    background-color: #fffff0;
     border-style: solid;
     border-color: #fffff0;
     max-width: 400px;
      width: 300px;
      height: 200px;
      border-radius: 10px;
+     padding: 2%;
    box-shadow: 2px 2px 2px #fffff0,2px 2px 2px #ffff00,2px 2px 2px #000000;
 
 
