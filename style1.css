@@ -73,6 +73,9 @@ body {
     background-color: #fffff0;
     border-style: solid;
     border-color: #fffff0;
+    margin-left: -1%;
+    margin-right: 40%;
+
     max-width: 400px;
      width: 400px;
      height: 200px;
