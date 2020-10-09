@@ -45,10 +45,10 @@ function populate(city,jdata,country) {
     document.querySelector('.icon').innerHTML=`<img src="icons/${ic}.png">`;
     if (timet) {
 
-        document.querySelector('.card img').setAttribute('src', `https://source.unsplash.com/400x220/?${city},sunlight`);
+        document.querySelector('.card img').setAttribute('src', `https://source.unsplash.com/300x200/?${city},sunlight`);
     }
     else {
-        document.querySelector('.card img').setAttribute('src', `https://source.unsplash.com/400x220/?${city},night`);
+        document.querySelector('.card img').setAttribute('src', `https://source.unsplash.com/300x200/?${city},night`);
     }
     document.querySelector('.card').classList.add('show');
     document.querySelector('.temper').querySelector('span').innerText = tem;
