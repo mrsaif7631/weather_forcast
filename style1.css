@@ -73,6 +73,9 @@ body {
     background-color: #fffff0;
     border-style: solid;
     border-color: #fffff0;
+      margin-left: 30%;
+    margin-right: 45%;
+
    
     border-radius: 10px;
    box-shadow: 2px 2px 2px #fffff0,2px 2px 2px #ffff00,2px 2px 2px #000000;
